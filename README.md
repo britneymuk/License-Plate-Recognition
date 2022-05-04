@@ -1,5 +1,5 @@
 # License-Plate-Recognition
-The task here is to apply Optical Character Recognition (OCR) to recognize the collected registration plate information
+The task here is to apply Optical Character Recognition (OCR) to recognize the collected registration plate information.
 The test images are provided as image1 to image3. Figure 1 below shows the collected license plates in image 1.
 
 ## Screenshots
